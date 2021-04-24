@@ -1,0 +1,5 @@
+<?php 
+// untuk menyimpan constanta2 yang dibutuhkan
+// define('BASEURL', 'http://localhost/ujikom/phpmvc/public');
+
+?>
